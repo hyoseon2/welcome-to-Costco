@@ -207,7 +207,6 @@ header .wrap .right .bottom p{
     margin-right: 10%;
     display: flex;
     flex-direction: column;
-    gap: 20px;
 }
 
 .section3 .wrap ul li{
